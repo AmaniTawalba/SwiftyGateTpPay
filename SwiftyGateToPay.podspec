@@ -19,4 +19,3 @@ This CocoaPods library helps you perform calculation.
   spec.source_files  = "SwiftyGateToPay/**/*.{h,m,swift}"
 
 end
-view raw
