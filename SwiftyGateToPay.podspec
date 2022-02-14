@@ -10,7 +10,7 @@ This CocoaPods library helps you perform calculation.
 
   spec.homepage     = "https://github.com/AmaniTawalba/SwiftyGateTpPay"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author       = { "Amani" => ""mohammedamane1@gmail.com" }
+  spec.author       = { "Amani" => "mohammedamane1@gmail.com" }
 
   spec.ios.deployment_target = "12.1"
   spec.swift_version = "4.2"
